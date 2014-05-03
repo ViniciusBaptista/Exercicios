@@ -1,4 +1,3 @@
-﻿<script>
 function pulalinha() {
   document.write("<br>");
 };
@@ -31,5 +30,3 @@ if(imcDoUsuario > 35) {
 if(imcDoUsuario > 18.5 && imcDoUsuario < 35) {
 	mostra("OK! Seu IMC está entre os dois limites.");
 }
-
-</script>
